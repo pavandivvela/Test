@@ -7,12 +7,12 @@ import java.util.UUID;
  * Generate a unique number
  *
  */
-public class App
+public class AppRandom
 {
 
     public static void main( String[] args )
     {
-        App obj = new App();
+        AppRandom obj = new AppRandom();
         System.out.println("Unique ID : " + obj.generateUniqueKey());
     }
 

@@ -13,6 +13,7 @@ public class AppRandom
     public static void main( String[] args )
     {
         AppRandom obj = new AppRandom();
+         System.out.println("Hellow world program : welcome ! Pavan " );
         System.out.println("Unique ID : " + obj.generateUniqueKey());
     }
 
